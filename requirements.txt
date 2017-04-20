@@ -8,6 +8,6 @@
 
 
 python-docx==0.8.6
-shodan
+shodan==1.6.5
 google
 #pywhois
